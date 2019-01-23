@@ -1,2 +1,2 @@
-# Microblog-LaraBeau
-A simple blog site using Laravel and Beaufy
+# Microblog-LaraBeu
+A simple blog site using Laravel and Beufy
