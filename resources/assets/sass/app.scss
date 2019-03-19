@@ -5,5 +5,16 @@
 // Variables
 @import "variables";
 
-// Bootstrap
-@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+
+html, body {
+  height:100%;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+body { overflow: hidden }
+
+#app {
+  height: 100%;
+}
+
